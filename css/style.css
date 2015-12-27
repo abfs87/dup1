@@ -1,0 +1,15 @@
+header, footer, nav {
+	display: block;
+}
+
+body {
+	background-color: #fff;
+	margin: 0px;
+	height: 100%;
+}
+
+nav li {
+	display: inline;
+	float:right;
+	margin-right: 15px;
+}
