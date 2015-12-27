@@ -10,6 +10,8 @@ body {
 
 nav li {
 	display: inline;
-	float:right;
+	position: relative;
+	right
+	/*alight right*/
 	margin-right: 15px;
 }
