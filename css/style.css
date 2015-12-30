@@ -49,12 +49,16 @@ li a:hover {
 
 /* class foot belum fix */
 
-.foot {
-	background-color: red;
+.foot .left {
+	width: 45%;
+	position: relative;
+	float: left;
 }
 
-.foot ul {
-
+.foot .right {
+	width: 45%;
+	position: relative;
+	float: right;
 }
 
 .foot .left li {
@@ -65,18 +69,6 @@ li a:hover {
 .foot .right li {
 	display: inline;
 	margin-right: 35px;
-
-}
-
-.foot .left {
-	width: 45%;
-	position: relative;
-	float: left;
-
-}
-
-.foot .right {
-	width: 45%;
 	position: relative;
 	float: right;
 }
