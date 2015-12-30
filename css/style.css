@@ -37,8 +37,10 @@ li a:hover {
 
 .se .se-input {
 	width: 40%;
+	height: 100%;
 	margin-bottom: 10px;
 	margin-top: 10px;
+	vertical-align: middle;
 }
 
 .se-link {
@@ -46,3 +48,35 @@ li a:hover {
 }
 
 /* class foot belum fix */
+
+.foot {
+	background-color: red;
+}
+
+.foot ul {
+
+}
+
+.foot .left li {
+	display: inline;
+	margin-right: 35px;
+}
+
+.foot .right li {
+	display: inline;
+	margin-right: 35px;
+
+}
+
+.foot .left {
+	width: 45%;
+	position: relative;
+	float: left;
+
+}
+
+.foot .right {
+	width: 45%;
+	position: relative;
+	float: right;
+}
