@@ -1,4 +1,4 @@
-header, footer, nav {
+header, footer, nav, #content {
 	display: block;
 }
 
@@ -35,12 +35,27 @@ li a:hover {
 	text-align: center;
 }
 
+.se {
+	height: 100%;
+	margin: 0 auto;
+}
+
 .se .se-input {
 	width: 40%;
 	height: 100%;
 	margin-bottom: 10px;
 	margin-top: 10px;
-	vertical-align: middle;
+}
+
+#logo {
+	-webkit-background-size: 272px 92px;
+	background-size: 272px 92px;
+	width: 272px;
+	height: 92px;
+	background-image: url("../img/glogo.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: 0 auto;
 }
 
 .se-link {
