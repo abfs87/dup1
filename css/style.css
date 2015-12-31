@@ -102,11 +102,18 @@ li a:hover {
 
 .se-link {
 	width: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: gray;
+}
+
+.se-link:hover {
+	text-decoration: underline;
 }
 
 .foot {
 	width: 100%;
-	height: 50px;
+	height: 40px;
 	background-color: #F2F2F2;
 	border-top: solid 1px rgba(0,0,0,.1);
 	position: absolute;
