@@ -26,6 +26,15 @@ li a {
 	color: rgb(0,0,0);
 }
 
+.icon {
+	background: url("../img/option.png") no-repeat center;
+	display: block;
+	height: 25px;
+	width: 25px;
+	overflow: hidden;
+	
+}
+
 li a:hover {
 	color: #333;
 	text-decoration: underline;
