@@ -69,12 +69,14 @@ li a:hover {
 	margin: 0 auto;
 }
 
-.se-input {
+.se .se-input {
+	margin: 30px 0 30px 0;
 	line-height: 2.5em;
 	border: solid 1px rgba(0,0,0,.1);
 }
 
 .se-act {
+	margin: 5px 0 5px 0;
 	line-height: 3em;
 	font-family: arial;
 }
@@ -85,6 +87,7 @@ li a:hover {
 	background-color: #f4f4f4;
 	font-weight: bold;
 	color: #757575;
+	margin-top: 10px;
 }
 
 .se-act button:hover {

@@ -1,0 +1,927 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pri",
+				"print〔keyword〕"
+			],
+			[
+				"user",
+				"user_model"
+			],
+			[
+				"prin",
+				"printf〔function〕"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"si",
+				"site_url"
+			],
+			[
+				"sessd",
+				"session_destroy"
+			],
+			[
+				"loa",
+				"load_view	CI - Load View"
+			],
+			[
+				"log",
+				"logged_in"
+			],
+			[
+				"arra",
+				"array_items"
+			],
+			[
+				"sess",
+				"session_userdata	CI - Session - Retrieving Session Data"
+			],
+			[
+				"form_va",
+				"form_validation	CI - Form Validation Rule"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"inp",
+				"inputs	input - submit"
+			],
+			[
+				"for",
+				"form_open	CI - Form Open"
+			],
+			[
+				"load",
+				"load_library	CI - Load Library"
+			],
+			[
+				"CI_CON",
+				"CI_Controller〔class〕"
+			],
+			[
+				"CI_Co",
+				"CI_Config〔class〕"
+			],
+			[
+				"CI_M",
+				"CI_Model〔class〕"
+			],
+			[
+				"dele",
+				"delete_agenda"
+			],
+			[
+				"da",
+				"daftaragenda"
+			],
+			[
+				"up",
+				"update	(Agenda_model.php)"
+			],
+			[
+				"daf",
+				"daftaragenda"
+			],
+			[
+				"select",
+				"select_by_id	(Agenda_model.php)"
+			],
+			[
+				"sele",
+				"select_all"
+			],
+			[
+				"site_",
+				"site_url	(Daftaragenda.php)"
+			],
+			[
+				"fi",
+				"fieldset	<fieldset>"
+			],
+			[
+				"ins",
+				"insert	(Agenda_model.php)"
+			],
+			[
+				"agenda",
+				"agenda_model"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"daft",
+				"daftar_agenda"
+			],
+			[
+				"se",
+				"select_all	(agenda_model.php)"
+			],
+			[
+				"age",
+				"agenda_model"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"_co",
+				"__construct"
+			],
+			[
+				"date",
+				"date_modified"
+			],
+			[
+				"pi",
+				"pilih_hitung"
+			],
+			[
+				"an",
+				"angka1"
+			],
+			[
+				"cal",
+				"calculator	(form_hitung.php)"
+			],
+			[
+				"hasi",
+				"hasil_hitung	(Calculator.php)"
+			],
+			[
+				"ang",
+				"angka2	(Welcome.php)"
+			],
+			[
+				"pili",
+				"pilih_hitung	(Calculator.php)"
+			],
+			[
+				"hasil",
+				"hasil_hitung"
+			],
+			[
+				"int",
+				"inputt	input - text"
+			],
+			[
+				"site",
+				"site_url〔function〕"
+			],
+			[
+				"load_",
+				"load_helper	CI - Load Helper File"
+			],
+			[
+				"f",
+				"fun	function …"
+			],
+			[
+				"ex",
+				"extends	(Welcome.php)"
+			],
+			[
+				"ci",
+				"ci_base	CI - URL Helper - base_url"
+			],
+			[
+				"angk",
+				"angka1"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"lh",
+				"line-height"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"tit",
+				"title"
+			],
+			[
+				"n",
+				"no-repeat"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"pos",
+				"pos-r	position: relative;"
+			],
+			[
+				"in",
+				"inputt	input - tel"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"min",
+				"main	<main>"
+			],
+			[
+				"ht",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"q",
+				"query	(dtbs.php)"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"conn",
+				"connect	(dtbs.php)"
+			],
+			[
+				"qu",
+				"query($sql	(index.php)"
+			],
+			[
+				"conne",
+				"connectorPDO"
+			],
+			[
+				"connec",
+				"connectdulu"
+			],
+			[
+				"fe",
+				"fetchAll	(dtbs.php)"
+			],
+			[
+				"dt",
+				"dtbs	(dtbs.php)"
+			],
+			[
+				"tr",
+				"tr	<tr>"
+			],
+			[
+				"conf",
+				"confPDO"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"end",
+				"endif〔keyword〕"
+			],
+			[
+				"if",
+				"ifelse	if … else …"
+			],
+			[
+				"red",
+				"redirect	CI - URL Helper - redirect"
+			],
+			[
+				"po",
+				"postID"
+			],
+			[
+				"bas",
+				"base_url	(config.php)"
+			],
+			[
+				"redire",
+				"redirect〔function〕"
+			],
+			[
+				"insert",
+				"insert_post	(Post.php)"
+			],
+			[
+				"_PO",
+				"$_POST〔variable〕"
+			],
+			[
+				"arr",
+				"array	(Post.php)"
+			],
+			[
+				"get_po",
+				"get_post	(Post.php)"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"pod",
+				"postID"
+			],
+			[
+				"or",
+				"order_by"
+			],
+			[
+				"post",
+				"postID	(post_index.php)"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"addTas",
+				"addTaskElement"
+			],
+			[
+				"save",
+				"saveTaskList〔function〕"
+			],
+			[
+				"pre",
+				"prev〔function〕"
+			],
+			[
+				"move",
+				"moveUp"
+			],
+			[
+				"remov",
+				"removeTask"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"parse",
+				"parse	$.parseJSON()"
+			],
+			[
+				"app",
+				"appName"
+			],
+			[
+				"mov",
+				"moveDown"
+			],
+			[
+				"on",
+				"onEditTaskName"
+			],
+			[
+				"inse",
+				"insertBefore〔function〕"
+			],
+			[
+				"tas",
+				"task"
+			],
+			[
+				"cl",
+				"click〔function〕"
+			],
+			[
+				"task",
+				"taskName"
+			],
+			[
+				"fo",
+				"focus	.focus()"
+			],
+			[
+				"key",
+				"keypress〔function〕"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"win",
+				"window〔variable〕"
+			],
+			[
+				"Tas",
+				"TaskAtHandApp"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"Route",
+				"Route::get	Basic Route with Closure"
+			],
+			[
+				"Rou",
+				"Route"
+			],
+			[
+				"Rout",
+				"Route::get	Basic Route with Closure"
+			],
+			[
+				"rou",
+				"route〔function〕"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"pa",
+				"padding	(style.css)"
+			],
+			[
+				"doc",
+				"document〔variable〕"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"over",
+				"overflow"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"new f",
+				"File: New Folder Relative to Current View"
+			]
+		],
+		"width": 901.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by);"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/abfs87/Workspace/Web/proyek_duplikasi/dup1"
+	],
+	"file_history":
+	[
+		"/home/abfs87/Workspace/Web/ci_agenda/application/views/account/form_login.php",
+		"/home/abfs87/Workspace/Web/ci_agenda/application/views/account/success_page.php",
+		"/home/abfs87/Workspace/Web/ci_agenda/application/models/account/User_model.php",
+		"/home/abfs87/Workspace/Web/ci_agenda/application/controllers/Account.php",
+		"/home/abfs87/Workspace/Web/ci_agenda/application/views/daftaragenda/daftar_agenda.php",
+		"/home/abfs87/Workspace/Web/ci_agenda/application/views/daftaragenda/form_edit_agenda.php",
+		"/home/abfs87/Workspace/Web/ci_agenda/application/config/config.php",
+		"/home/abfs87/Workspace/Web/ci_agenda/application/config/database.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/views/daftaragenda/form_edit_agenda.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/views/daftaragenda/form_tambah_agenda.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/views/daftaragenda/daftar_agenda.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/models/daftaragenda/Agenda_model.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/models/account/User_model.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/controllers/Daftaragenda.php",
+		"/home/abfs87/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/abfs87/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/abfs87/Workspace/Web/ci_travel/application/models/daftaragenda/agenda_model.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/views/hasil_hitung.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/config/autoload.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/config/database.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/views/form_hitung.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/controllers/Calculator.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/controllers/Welcome.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/models/untitled",
+		"/home/abfs87/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/abfs87/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/abfs87/Workspace/Web/ci_travel/application/views/biodata.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/views/welcome_message.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/views/eco.php",
+		"/home/abfs87/Workspace/Web/ci_travel/application/config/config.php",
+		"/home/abfs87/Workspace/Web/proyek_duplikasi/dup1/css/style.css",
+		"/home/abfs87/Workspace/Web/proyek_duplikasi/dup1/index.html",
+		"/home/abfs87/Workspace/Web/proyek_duplikasi/dup1/css/bootstrap.min.css",
+		"/home/abfs87/Workspace/Web/proyek_duplikasi/dup1/js/script.js",
+		"/home/abfs87/Workspace/Web/login_template/core/conn.ini",
+		"/home/abfs87/Workspace/Web/login_template/class/cnfg.php",
+		"/home/abfs87/Workspace/Web/login_template/class/dtbs.php",
+		"/home/abfs87/Workspace/Web/login_template/index.php",
+		"/home/abfs87/.config/sublime-text-3/Packages/User/PHP.sublime-settings",
+		"/home/abfs87/Workspace/Web/kurs/index.php",
+		"/home/abfs87/Workspace/Web/kurs/dtbs.php",
+		"/home/abfs87/Workspace/Web/web_sipp/incl/dtbs.php",
+		"/home/abfs87/Workspace/Web/web_sipp/tes_path.php",
+		"/home/abfs87/Workspace/Web/web_sipp/pblc/index.php",
+		"/home/abfs87/Workspace/Web/web_sipp/pblc/css/styl.css",
+		"/home/abfs87/Workspace/Web/web_sipp/core/koneksi.ini",
+		"/home/abfs87/Workspace/Web/scratch_ci/application/models/Post.php",
+		"/home/abfs87/Workspace/Web/scratch_ci/application/config/config.php",
+		"/home/abfs87/Workspace/Web/scratch_ci/application/controllers/Posts.php",
+		"/home/abfs87/Workspace/Web/scratch_ci/application/views/post.php",
+		"/home/abfs87/Workspace/Web/scratch_ci/application/views/post_index.php",
+		"/home/abfs87/Workspace/Web/scratch_ci/application/config/autoload.php",
+		"/home/abfs87/Workspace/Web/scratch_ci/.htaccess",
+		"/home/abfs87/Workspace/Web/scratch_ci/application/.htaccess",
+		"/home/abfs87/Workspace/Web/scratch_ci/application/config/database.php",
+		"/home/abfs87/Workspace/Web/app_tasklist/taskAtHand.html",
+		"/home/abfs87/Workspace/Web/app_tasklist/taskAtHand.js",
+		"/home/abfs87/Workspace/Web/app_tasklist/appStorage.js",
+		"/home/abfs87/Workspace/Web/app_tasklist/taskAtHand.css",
+		"/home/abfs87/Workspace/Web/psd2html/app.html",
+		"/home/abfs87/Workspace/Web/psd2html/app.css",
+		"/home/abfs87/Workspace/Web/psd2html/app.js",
+		"/home/abfs87/Workspace/Web/psd2html/app/js",
+		"/home/abfs87/Workspace/Web/lm_laravel/resources/views/login.blade.php",
+		"/home/abfs87/Workspace/Web/lm_laravel/resources/views/welcome.blade.php",
+		"/home/abfs87/Workspace/Web/lm_laravel/config/database.php",
+		"/home/abfs87/Workspace/Web/lm_laravel/app/Http/routes.php",
+		"/home/abfs87/Workspace/Web/lm_laravel/resources/views/tes.blade.php",
+		"/home/abfs87/Workspace/Web/laravel/app/Http/Controllers/Controller.php",
+		"/home/abfs87/Workspace/Web/laravel/resources/views/welcome.blade.php",
+		"/home/abfs87/Workspace/Web/laravel/app/Http/routes.php",
+		"/home/abfs87/Workspace/Web/tes_sm/myapp/app.js",
+		"/home/abfs87/Workspace/Web/laravel/.env",
+		"/home/abfs87/Workspace/Web/project2/pblc/index.php",
+		"/home/abfs87/Workspace/Web/project2/pblc/js/script.js",
+		"/home/abfs87/Workspace/Web/GroundUp/htmlexercise.html",
+		"/home/abfs87/Workspace/Web/template_crud/index.php",
+		"/home/abfs87/Workspace/Web/template_crud/clss/DB.class.php",
+		"/home/abfs87/Workspace/Web/template_crud/core/sambungan.ini",
+		"/home/abfs87/Workspace/Web/startoverPHP/array/array-part1/part5-1.php",
+		"/home/abfs87/Workspace/Web/SenjaMerona/clss/chklogin.php",
+		"/home/abfs87/Workspace/Web/SenjaMerona/pblc/dummytes.php",
+		"/home/abfs87/Workspace/Web/SenjaMerona/pblc/.htaccess",
+		"/home/abfs87/Workspace/Web/SenjaMerona/mlai/init.php",
+		"/home/abfs87/Workspace/Web/SenjaMerona/mlai/conn.ini",
+		"/home/abfs87/Workspace/Web/SenjaMerona/pblc/index.php",
+		"/home/abfs87/Workspace/Web/SenjaMerona/clss/dtbs.php",
+		"/home/abfs87/Workspace/Web/SenjaMerona/clss/cnfg.php",
+		"/home/abfs87/Workspace/Web/kurs/read.php",
+		"/home/abfs87/Workspace/Web/ci_crud/application/controllers/Mahasiswa.php",
+		"/home/abfs87/Workspace/Web/ci_crud/system/database/DB_query_builder.php",
+		"/home/abfs87/Workspace/Web/ci_crud/application/models/Model_crud.php",
+		"/home/abfs87/Workspace/Web/ci_crud/application/models/Model_mahasiswa.php",
+		"/home/abfs87/Workspace/Web/ci_crud/application/views/mahasiswa.php",
+		"/home/abfs87/Workspace/Web/ci_crud/application/config/database.php",
+		"/home/abfs87/Workspace/Web/ci_crud/application/config/autoload.php",
+		"/home/abfs87/Workspace/Web/kurs/css/bootstrap.min.css",
+		"/home/abfs87/.config/sublime-text-3/Packages/Phpcs/phpcs.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"ci_travel",
+			"username",
+			"ci_travel",
+			"# code...",
+			"ctrl+space",
+			"ctrl+/",
+			"input",
+			"<br/>",
+			"\">\n",
+			";\n",
+			"5",
+			"10",
+			"5",
+			"{\n",
+			"title=",
+			"title=\"Gmail",
+			"<script src=\"js/script.js\" type=\"text/javascript\" charset=\"utf-8\"></script>",
+			"private",
+			"query",
+			");\n",
+			"space",
+			"profesi_guest",
+			"id",
+			"base_url",
+			"index.php",
+			"save",
+			"taskList",
+			"TaskList",
+			"taskList",
+			"this.localStorageSupported = (('localStorage' in window) &&\nwindow['localStorage']);",
+			">\n",
+			"delete",
+			"tools",
+			"back",
+			"}\n",
+			"min.",
+			"</a>",
+			"'];\n",
+			"'];;",
+			"$ini",
+			"$this->",
+			"dbconn",
+			"self:",
+			"	\n",
+			"['',]",
+			"m_currency_id",
+			"confPDO",
+			"a",
+			"modalKu",
+			"nama",
+			"nim",
+			"autofocus",
+			"im",
+			"form",
+			"idkurs",
+			"/*!",
+			"config",
+			"$config",
+			"']);",
+			"       ",
+			"        ",
+			"          ",
+			"         ",
+			"        ",
+			");\n",
+			"();\n",
+			"	// if (null == $id) {\n	// 	$db = new dtbs();\n	// 	$dbop = $db->connect();\n	// 	$sql = \"SELECT * FROM currency WHERE m_currency_id = ?\";\n	// 	$q = $dbop->prepare($sql);\n	// 	$q->bind_param(\"s\", $id);\n	// 	$q->execute();\n	// 	$data = $q->fetch_assoc();\n	// }",
+			");\n",
+			"idkurs",
+			"codeKurs",
+			"buka",
+			"idkurs",
+			"ID Kurs",
+			"idError",
+			"ID Kurs",
+			"idkurs",
+			"idError",
+			"\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"alt+/",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "dup1.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"agenda",
+				"application/models/daftaragenda/agenda_model.php"
+			],
+			[
+				"daf",
+				"application/controllers/Daftaragenda.php"
+			],
+			[
+				"auto",
+				"application/config/autoload.php"
+			],
+			[
+				"data",
+				"application/config/database.php"
+			],
+			[
+				"form",
+				"application/views/form_hitung.php"
+			],
+			[
+				"welc",
+				"application/controllers/Welcome.php"
+			],
+			[
+				"contro",
+				"app/Http/Controllers/Controller.php"
+			],
+			[
+				"wel",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"",
+				".env"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Workspace/Web/travel_xyz/travel_xyz.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
